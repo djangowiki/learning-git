@@ -6,3 +6,15 @@ git status
 git commit -m ''
 
 git log
+
+git branch -M main
+
+git checkout id of the repo to checkout
+
+git remote add origin 'link to repo'
+
+git push -u origin main
+
+git remote show origin
+
+git remote remove origin
