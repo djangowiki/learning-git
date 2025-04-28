@@ -4,3 +4,5 @@ git config --global user.email ''
 git status
 
 git commit -m ''
+
+git log
